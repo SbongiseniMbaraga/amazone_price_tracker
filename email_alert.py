@@ -8,7 +8,7 @@ def send_email():
 
     receiver = "sbongiseni2@yahoo.com"
     sender = ['sbongiseni2@hotmail.com']
-    password = "Englishdub@nime1"
+    password = ""
 
     # if amazon.gets_price() < buy_price:
     #     message = f"{amazon.gets_title()} is now {amazon.gets_price()}"
